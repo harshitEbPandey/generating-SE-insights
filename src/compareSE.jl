@@ -43,7 +43,7 @@ function get_query(test_x1::FairDataset)
     sample_df = test_x1.data[rows_idx, :]
 
     data_mat = Matrix(sample_df)
-    outdir = "/Users/harshit/Documents/GitHub/PRLProj/analysis/data"
+    outdir = "/Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp2"
     CSV.write(joinpath(outdir, "sampled_instances_$(n_samples).csv"), sample_df)
 
     list_of_dfs = Vector{DataFrame}()
@@ -66,8 +66,7 @@ function get_query(test_x1::FairDataset)
 end
 
 function prediction_bottom(fairpc::StructType, fairdata, flag)
-    println("Entering bottom of the pile")
-    outdir = "/Users/harshit/Documents/GitHub/PRLProj/analysis/data"
+    outdir = "/Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp2"
     @inline get_node_id(id::⋁NodeIds) = id.node_id
     @inline get_node_id(id::⋀NodeIds) = @assert false
     results = Dict()
@@ -105,7 +104,6 @@ function predict_all_se(T, result_circuits, log_opts, train_x, test_x, flag)
             mkpath(dir)
         end
         run_fairpc = T(pc, vtree, train_x.S, train_x.D)
-        println("Does not fail in run_fairpc")
         prediction_bottom(run_fairpc,test_x,flag)
     end
 end

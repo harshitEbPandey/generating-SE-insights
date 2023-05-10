@@ -98,7 +98,7 @@ dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
 dataframe for inst Bool[0, 1, 1, 0, 1, 0, 0] created!
 dataframe for inst Bool[1, 1, 1, 1, 1, 0, 0] created!
 dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
-writing 3_test.csv to - /Users/harshit/Documents/GitHub/PRLProj/analysis/data/3_test.csv
+writing 3_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp2/3_test.csv
 dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
 dataframe for inst Bool[1, 1, 0, 0, 1, 0, 0] created!
 dataframe for inst Bool[1, 1, 0, 0, 1, 1, 0] created!
@@ -199,7 +199,7 @@ dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
 dataframe for inst Bool[0, 1, 1, 0, 1, 0, 0] created!
 dataframe for inst Bool[1, 1, 1, 1, 1, 0, 0] created!
 dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
-writing 4_test.csv to - /Users/harshit/Documents/GitHub/PRLProj/analysis/data/4_test.csv
+writing 4_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp2/4_test.csv
 dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
 dataframe for inst Bool[1, 1, 0, 0, 1, 0, 0] created!
 dataframe for inst Bool[1, 1, 0, 0, 1, 1, 0] created!
@@ -300,20 +300,8 @@ dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
 dataframe for inst Bool[0, 1, 1, 0, 1, 0, 0] created!
 dataframe for inst Bool[1, 1, 1, 1, 1, 0, 0] created!
 dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
-writing 5_test.csv to - /Users/harshit/Documents/GitHub/PRLProj/analysis/data/5_test.csv
+writing 5_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp2/5_test.csv
 created K_3,4,5
-Does not fail in run_fairpc
-Entering bottom of the pile
-Does not fail in run_fairpc
-Entering bottom of the pile
-Does not fail in run_fairpc
-Entering bottom of the pile
 Done with Predict_all_se for Nlat
 Calling predict all se for Fair
-Does not fail in run_fairpc
-Entering bottom of the pile
-Does not fail in run_fairpc
-Entering bottom of the pile
-Does not fail in run_fairpc
-Entering bottom of the pile
 Done predict all se for Fair
