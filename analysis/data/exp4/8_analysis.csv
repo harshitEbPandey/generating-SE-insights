@@ -1,0 +1,11 @@
+instance,nlat mean,nlat stdDev,prior
+"[True, False, False, False, True, True, True, False, False, False, False, False, True, False, True, False, True, True, True, True, True, True]",0.6864328417833276,0.1413834801960206,0.9026596546173096
+"[False, False, True, False, True, True, False, False, False, False, False, True, False, True, True, False, False, False, True, True, False, False]",0.5017222121269824,0.11520169985526836,0.4442990720272064
+"[True, False, False, False, True, True, True, False, True, True, True, False, True, False, True, False, True, False, False, True, True, True]",0.5903717388144234,0.1588485194766737,0.7634422183036804
+"[False, False, False, True, False, False, False, True, False, True, False, False, True, True, False, True, False, False, True, False, True, True]",0.6050500887511412,0.1465168546431164,0.6110091209411621
+"[False, True, True, True, False, True, False, True, False, False, True, True, True, True, True, False, True, False, True, False, False, True]",0.7353509984134744,0.11672414276097325,0.941956341266632
+"[False, False, False, True, True, False, True, False, True, False, True, False, False, True, False, False, False, False, False, False, False, False]",0.3528197138283565,0.10780052195591534,0.061106476932764
+"[True, False, False, False, True, True, True, True, True, False, False, False, False, True, False, True, True, False, True, False, False, False]",0.45634971732211665,0.16833061471327487,0.2586210072040558
+"[False, True, True, False, True, True, True, False, False, False, False, True, True, False, True, True, True, True, True, True, False, True]",0.6715759211634937,0.11817012596637096,0.7074890732765198
+"[True, False, False, True, True, True, True, True, False, True, False, False, True, True, False, False, False, False, False, False, True, False]",0.4961870066623932,0.15392527137896442,0.1573365032672882
+"[True, True, False, True, False, True, True, True, True, False, True, False, True, True, True, False, False, False, True, False, False, False]",0.40919255475800237,0.18264811988524815,0.0254373922944068

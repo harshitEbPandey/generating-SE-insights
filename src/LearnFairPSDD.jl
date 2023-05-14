@@ -13,5 +13,4 @@ include("parameters.jl")
 include("structure_inits.jl")
 include("predictions.jl")
 include("models.jl")
-#include("compareSE.jl")
 end

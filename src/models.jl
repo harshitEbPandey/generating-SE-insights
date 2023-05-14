@@ -34,15 +34,17 @@ function model_fair_psdd(::Type{FairPC}, train_x::FairDataset, valid_x::FairData
     
     predict_all_circuits(NlatPC, nlat_result_circuits, log_opts1, train_x1, valid_x1, test_x1)
 
-    ### get partial assignments for k = 3,4,5
-    k_3, k_4, k_5 = get_query(train_x1)
-    println("created K_3,4,5")
+    ### get partial assignments of size 'k'
+    k_list = [7,8,15,16,21]
+    k_dfs = get_query(train_x1, k_list)
+    println(raw"created dfs for each k in k_list")
 
-    ### get EP for k = 3,4,5 on NLat PC
-    predict_all_se(NlatPC, nlat_result_circuits, log_opts, train_x1, k_3, "3_Nlat")
-    predict_all_se(NlatPC, nlat_result_circuits, log_opts, train_x1, k_4, "4_Nlat")
-    predict_all_se(NlatPC, nlat_result_circuits, log_opts, train_x1, k_5, "5_Nlat")
-    println("Done with Predict_all_se for Nlat")
+    ### get EP for k in k_list on NLat PC
+    for (iter, k) in enumerate(k_list)
+        println("Calling predict all se for k = $(k) Nlat")
+        predict_all_se(NlatPC, nlat_result_circuits, log_opts, train_x1, k_dfs[iter], "$(k)_Nlat")
+        println("returned from predict all se for k = $(k) Nlat")
+    end
 
     # parameter learning
     train_x2, valid_x2, test_x2 = convert2latent(train_x, valid_x, test_x)
@@ -60,13 +62,13 @@ function model_fair_psdd(::Type{FairPC}, train_x::FairDataset, valid_x::FairData
                             log_opts=log_opts2)
     predict_all_circuits(FairPC, result_circuits, log_opts2, train_x, valid_x, test_x)
 
-    ### get EP for k = 3,4,5 on FairPC
-    ### convert k_{3,4,5} for FairPC using convert_k
-    println("Calling predict all se for Fair")
-    predict_all_se(FairPC, result_circuits, log_opts2, train_x1, convert_k(k_3), "3_Fair")
-    predict_all_se(FairPC, result_circuits, log_opts2, train_x1, convert_k(k_4), "4_Fair")
-    predict_all_se(FairPC, result_circuits, log_opts2, train_x1, convert_k(k_5), "5_Fair")
-    println("Done predict all se for Fair")   
+    ### get EP for k in k_list on FairPC
+    ### convert k_list for FairPC using convert_k
+    for (iter, k) in enumerate(k_list)
+        println("Calling predict all se for k = $(k) Nlat")
+        predict_all_se(FairPC, result_circuits, log_opts2, train_x1, convert_k(k_dfs[iter]), "$(k)_Fair")
+        println("returned from predict all se for k = $(k) Nlat")
+    end
 
     return result_circuits, results
 end

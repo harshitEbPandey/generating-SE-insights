@@ -98,7 +98,7 @@ dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
 dataframe for inst Bool[0, 1, 1, 0, 1, 0, 0] created!
 dataframe for inst Bool[1, 1, 1, 1, 1, 0, 0] created!
 dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
-writing 3_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp2/3_test.csv
+writing 2_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp3/2_test.csv
 dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
 dataframe for inst Bool[1, 1, 0, 0, 1, 0, 0] created!
 dataframe for inst Bool[1, 1, 0, 0, 1, 1, 0] created!
@@ -199,7 +199,7 @@ dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
 dataframe for inst Bool[0, 1, 1, 0, 1, 0, 0] created!
 dataframe for inst Bool[1, 1, 1, 1, 1, 0, 0] created!
 dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
-writing 4_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp2/4_test.csv
+writing 3_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp3/3_test.csv
 dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
 dataframe for inst Bool[1, 1, 0, 0, 1, 0, 0] created!
 dataframe for inst Bool[1, 1, 0, 0, 1, 1, 0] created!
@@ -300,8 +300,227 @@ dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
 dataframe for inst Bool[0, 1, 1, 0, 1, 0, 0] created!
 dataframe for inst Bool[1, 1, 1, 1, 1, 0, 0] created!
 dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
-writing 5_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp2/5_test.csv
-created K_3,4,5
-Done with Predict_all_se for Nlat
-Calling predict all se for Fair
-Done predict all se for Fair
+writing 4_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp3/4_test.csv
+dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 1, 1] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 1, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 0, 0] created!
+dataframe for inst Bool[1, 0, 1, 1, 0, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 0, 1, 1] created!
+dataframe for inst Bool[0, 1, 0, 0, 0, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 0, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 0, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 0, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 0, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 0, 1] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 0, 1] created!
+dataframe for inst Bool[1, 0, 1, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 0, 1, 1] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 1, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 1, 1] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 0, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 1] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 0, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 0, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 0, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 0, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 0, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 1, 0, 1] created!
+dataframe for inst Bool[0, 1, 0, 1, 0, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 0, 1] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1] created!
+dataframe for inst Bool[1, 0, 1, 1, 1, 0, 1] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 0, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 1, 1] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 1, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
+writing 5_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp3/5_test.csv
+dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 1, 1] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 1, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 0, 0] created!
+dataframe for inst Bool[1, 0, 1, 1, 0, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 0, 1, 1] created!
+dataframe for inst Bool[0, 1, 0, 0, 0, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 0, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 0, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 0, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 0, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 0, 1] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 0, 1] created!
+dataframe for inst Bool[1, 0, 1, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 0, 1, 1] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 1, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 1, 1] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 0, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 1] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 0, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 0, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 0, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 0, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 0, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 0, 1, 1, 0, 1] created!
+dataframe for inst Bool[0, 1, 0, 1, 0, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 0, 1] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1] created!
+dataframe for inst Bool[1, 0, 1, 1, 1, 0, 1] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 0, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 1, 1, 1, 0] created!
+dataframe for inst Bool[0, 1, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 0, 0, 1, 1, 1] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[1, 1, 1, 1, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 0, 0, 1, 0, 0] created!
+writing 6_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp3/6_test.csv
+created dfs for each k in k_list
+Calling predict all se for k = 2 Nlat
+returned from predict all se for k = 2 Nlat
+Calling predict all se for k = 3 Nlat
+returned from predict all se for k = 3 Nlat
+Calling predict all se for k = 4 Nlat
+returned from predict all se for k = 4 Nlat
+Calling predict all se for k = 5 Nlat
+returned from predict all se for k = 5 Nlat
+Calling predict all se for k = 6 Nlat
+returned from predict all se for k = 6 Nlat
+Calling predict all se for k = 2 Nlat
+returned from predict all se for k = 2 Nlat
+Calling predict all se for k = 3 Nlat
+returned from predict all se for k = 3 Nlat
+Calling predict all se for k = 4 Nlat
+returned from predict all se for k = 4 Nlat
+Calling predict all se for k = 5 Nlat
+returned from predict all se for k = 5 Nlat
+Calling predict all se for k = 6 Nlat
+returned from predict all se for k = 6 Nlat

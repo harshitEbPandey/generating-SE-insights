@@ -1,0 +1,94 @@
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1] created!
+dataframe for inst Bool[0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1] created!
+dataframe for inst Bool[0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1] created!
+dataframe for inst Bool[0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1] created!
+dataframe for inst Bool[1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0] created!
+writing 7_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp4/7_test.csv
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1] created!
+dataframe for inst Bool[0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1] created!
+dataframe for inst Bool[0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1] created!
+dataframe for inst Bool[0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1] created!
+dataframe for inst Bool[1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0] created!
+writing 8_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp4/8_test.csv
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1] created!
+dataframe for inst Bool[0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1] created!
+dataframe for inst Bool[0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1] created!
+dataframe for inst Bool[0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1] created!
+dataframe for inst Bool[1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0] created!
+writing 15_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp4/15_test.csv
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1] created!
+dataframe for inst Bool[0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1] created!
+dataframe for inst Bool[0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1] created!
+dataframe for inst Bool[0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1] created!
+dataframe for inst Bool[1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0] created!
+writing 16_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp4/16_test.csv
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1] created!
+dataframe for inst Bool[0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1] created!
+dataframe for inst Bool[0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1] created!
+dataframe for inst Bool[0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0] created!
+dataframe for inst Bool[1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0] created!
+dataframe for inst Bool[0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0] created!
+dataframe for inst Bool[1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1] created!
+dataframe for inst Bool[1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0] created!
+writing 21_test.csv to - /Users/harshit/Documents/GitHub/generating-SE-insights/analysis/data/exp4/21_test.csv
+created dfs for each k in k_list
+Calling predict all se for k = 7 Nlat
+Writing EP values to file
+returned from predict all se for k = 7 Nlat
+Calling predict all se for k = 8 Nlat
+Writing EP values to file
+returned from predict all se for k = 8 Nlat
+Calling predict all se for k = 15 Nlat
+Writing EP values to file
+returned from predict all se for k = 15 Nlat
+Calling predict all se for k = 16 Nlat
+Writing EP values to file
+returned from predict all se for k = 16 Nlat
+Calling predict all se for k = 21 Nlat
+Writing EP values to file
+returned from predict all se for k = 21 Nlat
+Calling predict all se for k = 7 Nlat
+AssertionError("all(P_Df .+ exp.(flows[:, n_Df]) .≈ 1.0)")
+┌ Error: Error! Program terminated unexpectedly in args.
+│   arg_str = patience => 100
+struct_type => FairPC
+split_depth => 1
+pick_var => vMI
+struct_iters => 1000
+fold => 1
+save_step => 1
+pseudocount => 1.0
+pick_edge => eFlow
+exp-id => 4
+dataset => synthetic
+para_iters => 500
+num_X => 20
+sensitive_variable => S
+seed => 1337
+missing_perct => 0.0
+dir => exp/synthetic/1
+init_para_alg => prior-subop
+
+└ @ Main /Users/harshit/Documents/GitHub/generating-SE-insights/bin/learn.jl:74
