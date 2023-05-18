@@ -24,8 +24,16 @@ println("testStub : Working with $(train_x1.SV)")
 println("testStub : Working with $(train_x1.S)")
 println("testStub : Working with $(train_x1.D)")
 
+#read pc
 
-k_list = [2,3,4,5,6]
+k_list = [20]
 println("in testStub : Calling get_query")
 k_dfs = get_query(train_x1, k_list)
+for df in k_dfs
+    println(typeof(df))
+    data_mat = Matrix(df[:,1:21])
+    println(typeof(data_mat))
+    println(data_mat[1,:])
+end
 println(raw"created dfs for each k in k_list")
+

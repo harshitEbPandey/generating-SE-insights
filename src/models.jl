@@ -35,17 +35,17 @@ function model_fair_psdd(::Type{FairPC}, train_x::FairDataset, valid_x::FairData
     predict_all_circuits(NlatPC, nlat_result_circuits, log_opts1, train_x1, valid_x1, test_x1)
 
     ### get partial assignments of size 'k'
-    k_list = [7,8,15,16,21]
+    k_list = [10,12,14,16,18,20,21]
     k_dfs = get_query(train_x1, k_list)
     println(raw"created dfs for each k in k_list")
 
     ### get EP for k in k_list on NLat PC
     for (iter, k) in enumerate(k_list)
         println("Calling predict all se for k = $(k) Nlat")
-        predict_all_se(NlatPC, nlat_result_circuits, log_opts, train_x1, k_dfs[iter], "$(k)_Nlat")
+        predict_all_se(NlatPC, nlat_result_circuits, train_x1, k_dfs[iter], "$(k)_Nlat")
         println("returned from predict all se for k = $(k) Nlat")
     end
-
+    exit()
     # parameter learning
     train_x2, valid_x2, test_x2 = convert2latent(train_x, valid_x, test_x)
     pc, vtree = reload_learned_pc(nlat_results, "max-ll"; opts=log_opts1, name=train_x.name)
@@ -64,11 +64,12 @@ function model_fair_psdd(::Type{FairPC}, train_x::FairDataset, valid_x::FairData
 
     ### get EP for k in k_list on FairPC
     ### convert k_list for FairPC using convert_k
-    for (iter, k) in enumerate(k_list)
-        println("Calling predict all se for k = $(k) Nlat")
-        predict_all_se(FairPC, result_circuits, log_opts2, train_x1, convert_k(k_dfs[iter]), "$(k)_Fair")
-        println("returned from predict all se for k = $(k) Nlat")
-    end
+    ### TBD not working due to failure in convert_k
+    # for (iter, k) in enumerate(k_list)
+    #     println("Calling predict all se for k = $(k) Nlat")
+    #     predict_all_se(FairPC, result_circuits, log_opts2, train_x1, convert_k(k_dfs[iter]), "$(k)_Fair")
+    #     println("returned from predict all se for k = $(k) Nlat")
+    # end
 
     return result_circuits, results
 end
@@ -183,7 +184,7 @@ function learn(name, SV;
                 
                 # struct learn
                 struct_type="FairPC",
-                struct_iters=1000,
+                struct_iters=10,
                 split_heuristic=(pick_egde="eFlow", pick_var="vMI"),
                 split_depth=1,
 
